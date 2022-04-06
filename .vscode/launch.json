@@ -8,9 +8,9 @@
             "type": "java",
             "name": "Launch DessertGame",
             "request": "launch",
-            "vmArgs": "--module-path /Users/florian/Applications/javafx-sdk-11.0.2/lib/ --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path e:\\Downloads\\javafx-sdk-18\\lib\\ --add-modules javafx.controls,javafx.fxml",
             "mainClass": "DessertGame",
-            "projectName": "DessertGame_130e95b5"
+            "projectName": "DessertGame_e17567dc"
         }
     ]
 }
